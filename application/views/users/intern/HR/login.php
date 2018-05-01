@@ -1,7 +1,7 @@
 
 <style>
 	img{
-		width: 184px;
+		width: 120px;
 		height: auto;
 	}
 	body{
